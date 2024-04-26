@@ -1,0 +1,8 @@
+{
+    "Headers": {
+        "ID":"event6",
+        "Datetime created":"1628456923",
+        "Payload type":"String"
+    },
+    "Value": "this is the sixth string type event."
+}
