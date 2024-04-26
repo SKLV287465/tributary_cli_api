@@ -1,3 +1,2 @@
-You can view the assignment specification here: [https://nw-syd-gitlab.cseunsw.tech/COMP2511/23T3/assignment-iii-spec](https://nw-syd-gitlab.cseunsw.tech/COMP2511/23T3/assignment-iii-spec)
-# tributary_cli_api
-# tributary_cli_api
+Cooperation with https://github.com/yttam
+A mock API to deal with a tributary stream of objects concurrently.
